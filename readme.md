@@ -3,18 +3,17 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **various aspects of computer science, from algorithms to software development**.
 - 💬 Ask me about **computer science basics, programming, or problem-solving**.
-- 📫 How to reach me: **nolann.lescop@outlook.com**.
-- ⚡ Fun fact: **I'm a cyclist**
+- 📫 How to reach me : **nolann.lescop@outlook.com**.
+- ⚡ Fun  fact : **I'm a cyclist**
 
 ## 🛠️ Tech Stack
 Here are the technologies and tools I'm currently exploring:
-## 🛠️ Tech Stack
 
 ### **Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
@@ -52,6 +51,7 @@ Here are the technologies and tools I'm currently exploring:
 ## 🏆 My GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nolann-alt&theme=radical)](https://github.com/ryo-ma/github-profile-trophy" />
+  <br>
 </div>
 
 ---
