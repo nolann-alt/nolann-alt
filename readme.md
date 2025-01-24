@@ -21,3 +21,4 @@ Here are the technologies and tools I'm currently exploring:
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nolann-alt&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolann-alt&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nolann-alt&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
