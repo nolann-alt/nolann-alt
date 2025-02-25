@@ -21,7 +21,7 @@ Here are the technologies and tools I'm currently exploring:
 
 ### **Frameworks/Libraries**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://greensock.com/uploads/set_resources_16_GreenSock-Icon.png" alt="GSAP" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
 </p>
 
