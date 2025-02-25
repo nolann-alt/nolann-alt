@@ -21,7 +21,7 @@ Here are the technologies and tools I'm currently exploring:
 
 ### **Frameworks/Libraries**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GSAP_Logo.svg" alt="GSAP" width="60" height="60"/>
+  <img src="https://greensock.com/uploads/monthly_2020_05/gsap-logo-dark2.png" alt="GSAP" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
 </p>
 
