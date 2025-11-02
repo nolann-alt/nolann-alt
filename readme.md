@@ -18,8 +18,9 @@ Here are the technologies and tools I'm currently exploring:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="SQL" width="60" height="60"/>
   <img src="https://img.icons8.com/ios-filled/100/000000/database.png" alt="SQL" width="60" height="60"/>
-</p>
+</p>          
 
 ### **Frameworks / Libraries**
 <p align="left">
